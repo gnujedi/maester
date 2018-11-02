@@ -13,6 +13,7 @@ Tufte-css inspired blog with gallery and about page
 - [x] Basic gallery using driveway.css
 - [x] About page
 - [x] Font awesome
+- [ ] SVG Logo next to title and Favicon
 - [ ] Clean up and create better layouts
 - [ ] Pagination
 - [ ] Blog archive list a la ZenHabits (main page will show X entries)
